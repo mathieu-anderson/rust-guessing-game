@@ -1,0 +1,9 @@
+[package]
+name = "rust_guessing_game"
+version = "0.1.0"
+authors = ["Mathieu Anderson <mathieu.hj.anderson@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+# SemVer shorthand for "^0.3.14"
+rand = "0.4.0"
